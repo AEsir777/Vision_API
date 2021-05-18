@@ -10,7 +10,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
 client = vision.ImageAnnotatorClient()
 
 
-file_name = 'haha.jpg'
+file_name = 'tomato.jpg'
 folder_path = r'C:\Users\AEsir\Desktop\schoolwork\computer science\hackthon'
 
 
